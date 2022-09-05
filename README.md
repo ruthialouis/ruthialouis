@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ruthialouis
+- 👋 Hi, my name is Ruthia Louis
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning sql, excel, python and data visualization
 - 💞️ I’m looking to collaborate on data analysis projects
